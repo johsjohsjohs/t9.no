@@ -13,6 +13,9 @@ h1 {
 h2, h3, h4, h5 {
     color: white;
 }
+dl, dt, dd {
+    color: white;
+}
 .h-card p {
     display:inline
 }
@@ -84,4 +87,11 @@ li, ul{
     float: right;
     color: white;
 
+}
+.web {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
 }
