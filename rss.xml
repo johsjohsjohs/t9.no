@@ -5,10 +5,17 @@
 <link>https://t9.no</link>
 <description>blog</description>
 <item>
+<title>dmenu_applications</title>
+<link>https://t9.no/dmenu_applications.html</link>
+<guid>https://t9.no/dmenu_applications.html</guid>
+<pubDate>Sun, 17 Jul 2022 14:26:44 +0200</pubDate>
+<description>I have found a very cool dmenu script That looks for applications instead of /usr/bin that dmenu_run uses. if you are gonna use this insted of dmenu_run than just moved dmenu_applications into dmenu src folder than remove dmenu_run and rename dmenu_applications to dmenu_run.</description>
+</item>
+<item>
 <title>Hello, world!</title>
 <link>https://t9.no/hello.html</link>
 <guid>https://t9.no/hello.html</guid>
-<pubDate>Sun, 19 Jun 2022 00:00:41 +0200</pubDate>
+<pubDate>Sun, 19 Jun 2022 00:03:45 +0200</pubDate>
 <description>Hello everyone! This is the first (and hopefully not last) article on this blog. If you want to know a bit more [about](https://t9.no/about.html) me, you can read, well, the about me page. For anyone interested in how the blog’s hosted - the footer should have appropriate information, but in case it doesn’t: I’ve used [blogit](https://pedantic.software/git/blogit/) as a baseline, although I modified it to suit my needs. I plan to host my own git server; as soon as I do that, I’ll just share the code there.</description>
 </item>
 </channel>
